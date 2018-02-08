@@ -1,0 +1,66 @@
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\DirectX test.exe.config
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\DirectX test.exe
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\DirectX test.pdb
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\DirectX test.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.D3DCompiler.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.Desktop.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.Direct3D11.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.DXGI.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.D3DCompiler.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.Desktop.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.Direct3D11.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.DXGI.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\obj\Debug\DirectX test.vbprojResolveAssemblyReference.cache
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\obj\Debug\DirectX_test.Resources.resources
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\obj\Debug\DirectX test.vbproj.GenerateResource.Cache
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\obj\Debug\DirectX test.exe
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\obj\Debug\DirectX test.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\obj\Debug\DirectX test.pdb
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\obj\Debug\DirectX_test.Form1.resources
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\obj\Debug\DirectX_test.UCGame.resources
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.Direct3D9.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.Mathematics.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\SharpDX.Mathematics.xml
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\pixelShader.hlsl
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\vertexShader.hlsl
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\Microsoft.DirectX.Direct3D.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+c:\users\andr_ang\documents\visual studio 2015\Projects\DirectX test\DirectX test\bin\Debug\Microsoft.DirectX.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\DirectX test.exe.config
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\obj\Debug\DirectX test.exe
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\obj\Debug\DirectX test.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\obj\Debug\DirectX test.pdb
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\pixelShader.hlsl
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\vertexShader.hlsl
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\DirectX test.exe
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\DirectX test.pdb
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\DirectX test.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\Microsoft.DirectX.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.Desktop.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.DXGI.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.Desktop.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.DXGI.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\obj\Debug\DirectX test.vbprojResolveAssemblyReference.cache
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\obj\Debug\DirectX_test.Form1.resources
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\obj\Debug\DirectX_test.UCGame.resources
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\obj\Debug\DirectX_test.Resources.resources
+C:\Users\andr_ang\Source\Repos\SharpDX_test\.gitignore\DirectX test\obj\Debug\DirectX test.vbproj.GenerateResource.Cache
+C:\Users\andr_ang\Source\Repos\SharpDX_test\DirectX test\bin\Debug\DirectX test.exe.config
+C:\Users\andr_ang\Source\Repos\SharpDX_test\DirectX test\obj\Debug\DirectX test.exe
+C:\Users\andr_ang\Source\Repos\SharpDX_test\DirectX test\obj\Debug\DirectX test.xml
+C:\Users\andr_ang\Source\Repos\SharpDX_test\DirectX test\obj\Debug\DirectX test.pdb
